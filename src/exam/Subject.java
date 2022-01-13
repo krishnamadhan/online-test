@@ -72,6 +72,7 @@ public class Subject {
                     currentLevel=2;
                 }else
                     currentLevel=1;
+
             case 2:
               //  if(sets.get(0).getLevel()==1&&)
 
