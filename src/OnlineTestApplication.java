@@ -12,9 +12,9 @@ public class OnlineTestApplication {
 
     public static QuestionPaperRepo questionPaperRepo;
     public static int questionsInSet = 10;
-    public static final int setTimer = 2;
-    public static final int subjectTimer = 4;
-    public static final int studentTimer = 10;
+    public static final int setTimer = 0;
+    public static final int subjectTimer = 0;
+    public static final int studentTimer = 0;
     public static final int autoFillCorrectAnswer = 5;
 
     public static void main(String[] args) throws InterruptedException {
@@ -25,10 +25,13 @@ public class OnlineTestApplication {
         Scanner s = new Scanner(System.in);
         count = s.nextInt();
         List<Student> students = new ArrayList<>();
-
         for (int i = 0; i < count; i++) {
-
             Student std = new Student();
+            System.out.println("Enter the name of Student: ");
+            String name;
+            Scanner sc = new Scanner(System.in);
+            name = sc.nextLine();
+            std.setName(name);
             std.setAptitude(takeTest(questionPaperRepo.getAptitude()));
             std.setLanguage(takeTest(questionPaperRepo.getLanguage()));
             std.setMaths(takeTest(questionPaperRepo.getMaths()));
@@ -42,10 +45,13 @@ public class OnlineTestApplication {
 
 
         }
-
-
-        //System.out.println("Rank list: ");
+        System.out.println("\nRank list: ");
         setRank(students);
+        for(int i=0;i<students.size();i++)
+        {
+            System.out.print("Rank "+(i+1)+":"+students.get(i).getName()+"\t");
+            System.out.println(" Percentile: "+(Double.valueOf(students.size()-i)/students.size())*100);
+        }
 
     }
 

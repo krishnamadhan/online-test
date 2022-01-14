@@ -36,7 +36,6 @@ public class MarkComparator implements Comparator<Student> {
                 }
             }
         }
-
         return 0;
     }
 }
