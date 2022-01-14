@@ -13,10 +13,10 @@ public class LevelRepo {
         Collections.shuffle(questionAndAnswers);
     }
     public QuestionAndAnswer getRandomQuestion() {
-        if(cursor >= questionAndAnswers.size()) {
+        if(cursor >= questionAndAnswers.size()) {//questionAndAnswers.size() returns the no of entities in the arraylist
             return null;
         }
-        return questionAndAnswers.get(cursor++);
+        return questionAndAnswers.get(cursor++);//.get(i) returns the ith index of the questionAndAnswers array list(which has just question and answer)
     }
 
     public List<QuestionAndAnswer> getQuestionAndAnswers() {
@@ -24,7 +24,7 @@ public class LevelRepo {
     }
 
     public void setQuestionAndAnswers(List<QuestionAndAnswer> questionAndAnswers) {
-        this.questionAndAnswers = questionAndAnswers;
+        this.questionAndAnswers = questionAndAnswers;//Here also we have an arraylist named questionAndAnswer so we assign level wise quest and ans
         randomize();
     }
 

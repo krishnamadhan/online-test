@@ -38,7 +38,7 @@ The value of [(1/5)/(1/5) of 1/5]/[(1/5) of (1/5) / (1/5)] is (A) 1 (B) 25 (C) 1
 A fraction is such that if the numerator is multiplied by 3 and denominator is reduced by 3, we get 18/11, but if the numerator is increased by 8 and the denominator is doubled, we get 2/5. Then the fraction is (A) 8/15 (B) 12/25 (C) 11/21 (D) 9/28 |b
 If two numbers are in the ratio of 5:8 and 9 is added to each, the ratio becomes 8:11. Find the sum of the numbers. (A) 39 (B) 49 (C) 64 (D) 19 |a
 On selling a pen for Rs. 18, a man loses 1/10 of its cost price. The cost price of the pen is (A) Rs. 16.20 (B) Rs. 19.80 (C) Rs. 20 (D) Rs. 25 |c
--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is (A) 15 (B) 16 (C) 18 (D) 25 |b
 56 men can complete a piece of work in 24 days. In how many days can 42 men complete the same piece of work? (A) 18 (B) 32 (C) 98 (D) 48 |b
 A train running at 36 km/h takes 10 s to pass a telegraph pole. How long would it take to cross a platform 110m long? (A) 24 s (B) 31 s (C) 21 s (D) 33 s |c
@@ -68,7 +68,7 @@ The base and height of the triangle are in ratio 2:5. If the area of the triangl
 The list price of a book is Rs. 220. A discount of 20% on sales is announced. What is the amount of discount on it and its selling price? (A) 20, 84 (B) 30, 95 (C) 52, 180 (D) 44, 176 |d
 If a discount of 20% is given then selling price of an article is Rs. 24. What would be the selling price if the discount of 30% is given? (A) Rs. 19 (B) Rs. 20 (C) Rs. 21 (D) Rs. 22 |c
 Sara baked cakes for the school festival. The cost of one cake was Rs. 55. She sold 25 cakes and made a profit of Rs. lion each cake. Find the selling price of the cakes (A) Rs. 1,350 (B) Rs. 1,450 (C) Rs. 1,500 (D) Rs. 1,650 |d
--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 A bicycle marked at Rs. 1,500 is sold to a 1,350. What is the percentage of discount? (A) 7.5% (B) 10% (C) 12% (D) 15% |b
 A man sells two wrist watches at Rs. 594 each. On one he gains 10% and on the other he loses 10%. On the whole there is (A) 1% loss (B) 1% profit (C) 11% loss (D) 11% profit |a
 The cost price of 20 articles is the same as selling price of x articles. If the profit is 25% then the number of articles is (A) 15 (B) 16 (C) 17 (D) 18 |b
@@ -84,4 +84,4 @@ A shopkeeper buys 1000 umbrellas for Rs.85 each. He sells them for Rs.100 each. 
 The loss incurred by selling a mobile phone is Rs. 1000. Find the loss percentage if the cost of the mobile phone was Rs. 16000. (A) 4.50% (B) 5.65% (C) 6.25% (D) 7.45% |c
 Arjun buys 2000 caps for Rs.63 each. He sells them for Rs.87 each. Did he make a profit or incur a loss and by how much? (A) Profit of Rs. 24000 (B) Loss of Rs. 27500 (C) Profit of Rs. 48000 (D) Profit of Rs. 34600 |c
 Ramu bought a television for Rs. 21,950 and sold it at a loss of Rs. 2,580. Find the selling price of the television? (A) Rs. 20,680 (B) Rs. 19,370 (C) Rs. 18,540 (D) Rs. 16,560 |b
--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x

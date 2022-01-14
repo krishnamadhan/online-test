@@ -24,7 +24,6 @@ public class Subject {
     }
 
 
-
     public Integer getCurrent_set() {
         return current_set;
     }
@@ -56,7 +55,7 @@ public class Subject {
     public void setSetWiseMark(List<Integer> setWiseMark) {
         this.setWiseMark = setWiseMark;
     }
-
+//constructor...
     public Subject() {
         this.currentLevel=1;
         this.current_set=1;
@@ -65,15 +64,85 @@ public class Subject {
         this.sets = new ArrayList<>();
     }
     public void setNextLevel() {
-        //TODO: conditions
         switch(current_set) {
-            case 1:
-                if(setWiseMark.get(current_set-1).intValue()>2) {
+            case 1://Set 1-2.....setting level for 2nd set
+                if(setWiseMark.get(current_set-1).intValue()>8) {//intValue needed??
                     currentLevel=2;
                 }else
                     currentLevel=1;
+                break;
             case 2:
-              //  if(sets.get(0).getLevel()==1&&)
+                switch(sets.get(current_set-1).getLevel()) // if(sets.get(0).getLevel()==1&&)
+                {
+                    case 1://case for the level number that he took in the set-2
+                        if(setWiseMark.get(current_set-1).intValue()>8) {
+                            currentLevel = 2;
+                        }else
+                            currentLevel=1;
+                        break;
+                    case 2:
+                        if(setWiseMark.get(current_set-2).intValue()==10&&setWiseMark.get(current_set-1).intValue()==10){
+                            currentLevel=4;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()>6&&setWiseMark.get(current_set-1).intValue()<10){
+                            currentLevel=3;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()>0&&setWiseMark.get(current_set-1).intValue()<=6){
+                            currentLevel=2;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()==0){
+                            currentLevel=1;
+                        }
+                        break;
+
+                }
+            case 3:
+                switch(sets.get(current_set-1).getLevel())
+                {
+                    case 1:
+                        if(setWiseMark.get(current_set-1).intValue()>8) {
+                            currentLevel = 2;
+                        }else
+                            currentLevel=1;
+                        break;
+                    case 2:
+                        if(setWiseMark.get(current_set-1).intValue()>6){
+                            currentLevel=3;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()<=6){
+                            currentLevel=2;
+                        }
+                        break;
+                    case 3:
+                        if((setWiseMark.get(current_set-3).intValue()==10||setWiseMark.get(current_set-2).intValue()==10)&&setWiseMark.get(current_set-1).intValue()==10){
+                            currentLevel=5;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()>4){
+                            currentLevel=4;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()>0){
+                            currentLevel=3;
+                        }
+                        else{
+                            currentLevel=2;
+                        }
+                        break;
+                    case 4:
+                        if(setWiseMark.get(current_set-3).intValue()==10&&setWiseMark.get(current_set-2).intValue()==10&&setWiseMark.get(current_set-1).intValue()==10){
+                            currentLevel=6;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()>3){
+                            currentLevel=5;
+                        }
+                        else if(setWiseMark.get(current_set-1).intValue()>0){
+                            currentLevel=4;
+                        }
+                        else{
+                            currentLevel=3;
+                        }
+                }
+            default:
+                System.out.println("NextLevel switch case ends!!");
 
         }
 

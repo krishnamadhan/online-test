@@ -35,8 +35,11 @@ public class Set {
 
     public void setCorrect_answers() {
         correct_answers=0;
-        for(int i = 0; i< evaluations.size(); i++) {
+        for(int i = 0; i< evaluations.size(); i++) {//evaluations.size() returns no of entities present in it
             if(evaluations.get(i).getAnswer().equals(evaluations.get(i).getResponse())) {
+                //evaluations.get(i) == ith index entity
+                //.getAnswer() == returns the value in answer data member in the ith entity
+                //.equals(evaluations.get(i).getResponse()) == compares response given with the .getAnswer()
                 correct_answers++;
 
             }

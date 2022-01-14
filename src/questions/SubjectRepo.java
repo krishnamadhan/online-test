@@ -4,13 +4,13 @@ import java.util.List;
 
 public class SubjectRepo {
 
-    private List<LevelRepo> levels;
+    private List<LevelRepo> levels;//declaring a list of type LevelRepo where each entity has all the datamembers of that class..
     private int max_level;
     public SubjectRepo() {
         max_level=0;
     }
 
-    public List<LevelRepo> getLevels() {
+    public List<LevelRepo> getLevels() {//this function returns the levels list of type Level Repo
         return levels;
     }
 

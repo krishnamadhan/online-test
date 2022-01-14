@@ -10,7 +10,6 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-
 public class OnlineTestApplication {
 
     public  static QuestionPaperRepo questionPaperRepo;
@@ -19,7 +18,7 @@ public class OnlineTestApplication {
     public static void main(String[] args) {
         QuestionPaperRepo questionPaperRepo = new QuestionPaperRepo();
 
-        takeTest(questionPaperRepo.getAptitude());
+        takeTest(questionPaperRepo.getAptitude());//calling takeTest func. by passing aptitude question and answer (to start test)
         takeTest(questionPaperRepo.getLanguage());
         takeTest(questionPaperRepo.getMaths());
 
@@ -35,41 +34,47 @@ public class OnlineTestApplication {
     }
     public static Subject takeTest(SubjectRepo subjectRepo) {
         Scanner sc = new Scanner(System.in);
-//raakesh
         Subject subject = new Subject();
-        List<Set> sets = new ArrayList<>();
-        int numberOfSets = subject.getTotal_sets();
+        List<Set> sets = new ArrayList<>();//declaring an arraylist of type Set.....variable is 'sets'
+        int numberOfSets = subject.getTotal_sets();//assigns value to numberOfSets
         for (int i = 0; i < numberOfSets; i++) {
-            int level = subject.getCurrentLevel();
+            int level = subject.getCurrentLevel();//assigning the current level
             Set set = new Set();
             set.setLevel(level);
             int total_questions = set.getTotal_questions();
             List<Evaluation> evaluationList = new ArrayList<>();
-            for(int j=0; j<total_questions; j++)
+            for(int j=0; j<total_questions; j++)//loop runs for every question inside a set (set object)....
             {
                 QuestionAndAnswer questionAndAnswer = subjectRepo.getLevels().get(level - 1).getRandomQuestion();
+                //As QuestionAndAnswer has question and answer getter setter we create an object of the class
+                //and assigning the question and the answer by...
+                //subjectRepo object will be of any subject type(has questions and answers level wise)
+                //the object subjectrepo calls the function getLevels() to return the level arraylist of LevelRepo
+                //now the getlevels() function return the (currentlevel -1)th entity in the level array list..
+                //inside the entity we call getRandomQuestion() which returns some random question of the current level.
                 System.out.println(questionAndAnswer.getQuestion());
                 String ans;
-                ans = getRandomAnswer();
-                Evaluation evaluation = new Evaluation();
+                ans = getRandomAnswer();//random answer is generated..
+                System.out.println("Ans: "+ans);
+                Evaluation evaluation = new Evaluation();//creeating evaluation object to setting which question stored , what is the correct answer and what is the response
                 evaluation.setQuestion(questionAndAnswer.getQuestion());
                 evaluation.setAnswer(questionAndAnswer.getAnswer());
                 evaluation.setResponse(ans);
-                evaluationList.add(evaluation);
+                evaluationList.add(evaluation);//storing the object in evaluationlist array list..
 
 
-            }
-            set.setEvaluations(evaluationList);
-            set.setCorrect_answers();
-            subject.getSetWiseMark().add(set.getCorrect_answers());
-            subject.setNextLevel();
+            }//after total number of the question in that set gets completed(i.e. 10 quests)
+
+            System.out.println("\nCurrent level: "+level);
+            System.out.println("Set " +(i+1)+" over");
+            set.setEvaluations(evaluationList);//Storing the evaluationlist set wise for all the 4 sets
+            set.setCorrect_answers();//calculating the raw score setwise
+            subject.getSetWiseMark().add(set.getCorrect_answers());//adding setwisemark for this particular subject in getSetWiseMark list
+            subject.setNextLevel();//returns the next level...
             subject.getSets().add(set);
-
-
-
-
-
-
+            System.out.println("Set Wise Raw Score: "+subject.getSetWiseMark());
+            subject.setTotalScore();
+            System.out.println("Set Wise Processed Score: "+subject.getTotal_score());
 
         }
         return subject;
