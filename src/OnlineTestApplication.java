@@ -4,6 +4,7 @@ import questions.LevelRepo;
 import questions.QuestionAndAnswer;
 import questions.QuestionPaperRepo;
 import questions.SubjectRepo;
+import utils.CreateFile;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;
@@ -15,7 +16,7 @@ public class OnlineTestApplication {
     public static final int setTimer = 0;
     public static final int subjectTimer = 0;
     public static final int studentTimer = 0;
-    public static final int autoFillCorrectAnswer = 5;
+    public static final int autoFillCorrectAnswer = 9;
 
     public static void main(String[] args) throws InterruptedException {
         QuestionPaperRepo questionPaperRepo = new QuestionPaperRepo();
@@ -27,6 +28,7 @@ public class OnlineTestApplication {
         List<Student> students = new ArrayList<>();
         for (int i = 0; i < count; i++) {
             Student std = new Student();
+            std.setId("StudentID-"+i);
             System.out.println("Enter the name of Student: ");
             String name;
             Scanner sc = new Scanner(System.in);
@@ -52,6 +54,8 @@ public class OnlineTestApplication {
             System.out.print("Rank "+(i+1)+":"+students.get(i).getName()+"\t");
             System.out.println(" Percentile: "+(Double.valueOf(students.size()-i)/students.size())*100);
         }
+        CreateFile.createRaakesh(students.get(0));
+
 
     }
 
@@ -96,6 +100,7 @@ public class OnlineTestApplication {
             set.setLevel(level);
             int total_questions = set.getTotal_questions();
             List<Evaluation> evaluationList = new ArrayList<>();
+            Integer correctAnswersLeft = autoFillCorrectAnswer;
             for (int j = 0; j < total_questions; j++)//loop runs for every question inside a set (set object)....
             {
                 QuestionAndAnswer questionAndAnswer = subjectRepo.getLevels().get(level - 1).getRandomQuestion();
@@ -105,9 +110,15 @@ public class OnlineTestApplication {
                 //the object subjectrepo calls the function getLevels() to return the level arraylist of LevelRepo
                 //now the getlevels() function return the (currentlevel -1)th entity in the level array list..
                 //inside the entity we call getRandomQuestion() which returns some random question of the current level.
+
                 System.out.println(questionAndAnswer.getQuestion());
                 String ans;
-                ans = getRandomAnswer();//random answer is generated..
+                if(correctAnswersLeft>0) {
+                    ans= questionAndAnswer.getAnswer();
+                    correctAnswersLeft--;
+                }else {
+                    ans = getRandomAnswer();
+                }//random answer is generated..
                 System.out.println("Ans: " + ans);
                 Evaluation evaluation = new Evaluation();//creeating evaluation object to setting which question stored , what is the correct answer and what is the response
                 evaluation.setQuestion(questionAndAnswer.getQuestion());
@@ -123,9 +134,11 @@ public class OnlineTestApplication {
             set.setEvaluations(evaluationList);//Storing the evaluationlist set wise for all the 4 sets
             set.setCorrect_answers();//calculating the raw score setwise
             subject.getSetWiseMark().add(set.getCorrect_answers());//adding setwisemark for this particular subject in getSetWiseMark list
-            subject.setNextLevel();//returns the next level...
             subject.getSets().add(set);
+            subject.setNextLevel();//returns the next level...
             System.out.println("Set Wise Raw Score: " + subject.getSetWiseMark());
+            subject.getSets().forEach(set1 -> System.out.println("Set Wise Raw Score: " +set1.getLevel() ));
+
             subject.setTotalScore();
             System.out.println("Set Wise Processed Score: " + subject.getTotal_score());
             TimeUnit.SECONDS.sleep(setTimer);

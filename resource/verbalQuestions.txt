@@ -1,96 +1,136 @@
-1.	Antonyms of CONCEDE - a)object b)refuse c)grant d)accede |b
-2.	Synonyms of DEBACLE – a)collapse b)decline  c)defeat d)disgrace |a
-3.	Choose the odd one – a)under b)near c)beside d)where |d
-4.	I haven't seen you ...... a week – a)within b)since c)for d)from |c
-5.	Race : Fatigue :: Fast : ? – a)food b)laziness c)hunger d)race |c
-6.	A camera always has – a)reels b)flash c)stand d)lens |d
-7.	1, 2, 3, 5, 8, ? – a)12 b)14 c)15 d)13 |d
-8.	Spot the error – a)it is difficult b)for anyone c)to past time thus d)none |c
-9.	Antonyms of CONFESS - a)deny b)refuse c)contest d)contend |a 
-10.	Synonyms of TEPID – a)hot b)warm  c)cold d)boiling |b
-11.	Choose the odd one – a)carrot b)cabbage c)ginger d)potato |b
-12.	The machine is difficult to build ...... easy to maintain – a)but b)and c)for d)if |a
-13.	Cloth : Mill :: Newspaper : ? – a)editor b)reader c)paper d)press |d
-14.	Which of the following is always associated with 'tree'? – a)flowers b)roots c)fruits d)none |b
-15.	6, 12, 21, ?, 48 – a)32 b)33 c)31 d)34 |v
-16.	Spot the error – a)she sang b)very well c)isn’t it d)none |c
-17.	Antonyms of FAMOUS  a)disgraced b)unknown c)evil d)popular |b
-18.	Synonyms of SHIVER – a)feel b)rock  c)tremble d)move |c
-19.	Choose the odd one – a)calendar b)year c)day d)month |a
-20.	That rule is applicable ...... every one – a)for b)to c)about d)with |b
-21.	South : North-West :: West : ? – a)north b)north-east c)east d)west |b
-22.	A disease always has – a)cure b)germs c)cause d)patient |c
-23.	2, 3, 5,7,11,?, 17 – a)12 b)14 c)15 d)13 |d
-24.	Spot the error – a)he was in such hurry 	b)wait for me c)that he did not d)none |a
-25.	Antonyms of LOVE  a)villainy b)force c) hatred d)compulsion |c
-26.	Synonyms of WARY – a)sad b)vigilant  c)tired d)deserted |b
-27.	Choose the odd one – a)bake b)fry c)peel d)roast |c
-28.	Farida sings very well and ...... does salim – a)even b)too c)so d)also |c
-29.	Tree : Forest :: Grass : ? – a)lawn b)garden c)park d)sky |a
-30.	Danger always involves – a)fear b)attack c)enemy d)help |a
-31.	1, 3, 4, 8, 15, 27, ? – a)45 b)54 c)50 d)52 |c
-32.	Spot the error – a)I wonder b)to do it c)how I am d)none |c
-33.	Antonyms of COMFORT  a)uncomfort b)miscomfort c)discomfort d)none of these |c
-34.	Synonyms of ENTIRE – a)part b)small  c)hole d)whole |d
-35.	Choose the odd one – a)reader b)writer c)publisher d)reporter |a
-36.	You haven't had your lunch yet, ...... you – a)are b)have c)did d)do |b
-37.	College : Student :: Hospital : ? – a)nurse b)doctor c)patient d)treatment |c
-38.	A car always has – a)wheels b)driver c)bonnet d)bumper |a
-39.	5,6,9, 15, ?, 40 – a)22 b)25 c)24 d)21 |b
-40.	Spot the error – a)he loved b)none but c)his neighbour's daughter d)none |d
-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
-41.	Antonyms of COMMON  a)rare b)small c) poor d)petty |a
-42.	Synonyms of LYNCH – a)hang b)madden  c)kill d)shoot |c
-43.	Choose the odd one – a)walk b)swim c)climb d)listen |d
-44.	His father ...... him up in business – a)set b)put c)made d)built |a
-45.	Melt : Liquid :: Freeze : ? – a)ice b)condense c)liquid d)solid |d
-46.	A lotus always has – a)water b)root c)mud d)petals |d
-47.	6, 13, 25, 51, 101, ? – a)200 b)221 c)221 d)202 |d
-48.	Spot the error – a)the school is b)within hundred yards c)from the chruch d)none |b
-49.	Antonyms of AWARE  a)sure b)uncertain c) doubtful d)ignorant |d
-50.	Synonyms of BARE – a)uncovered b)tolerate  c)clear d)neat |a
-51.	Choose the odd one – a)inch b)foot c)quart d)yard |c
-52.	She ...... a brief appearance at the end of party – a)put in b)show c)had d)did |a
-53.	Peacock : India :: Bear : ? – a)Australia b)America c)Russia d)England |c
-54.	A mirror always– a)distorts b)reflects c)refracts d)retracts |b
-55.	125,80,45,20,? – a)5 b)55 c)15 d)2 |a
-56.	Spot the error – a) they b)enjoyed thoroughly c)at the party d)none |b
-57.	Antonyms of EVASIVE  a)free b)honest c) liberal d)frank |b
-58.	Synonyms of FEEBLE – a)vain b)shy  c)arrogant d)weak |d
-59.	Choose the odd one – a)hostel b)club c)hotel d)inn |b	
-60.	The paths of glory lead ...... to the grave – a)straight b)in c)direct d)but |d
-61.	Tractor : Trailer :: Horse : ? – a)cart b)stable c)engine d)saddle |a
-62.	A bulb always has – a)light b)current c)glass d)filament |d
-63.	21,25,33,49,81, ? – a)144 b)145 c)154 d)133 |b
-64.	Spot the error – a)my father b)goes to the office c)five day week d)none |c
-65.	Antonyms of BUSY  a)occupied b)engrossed c) relaxed d)engaged |c
-66.	Synonyms of TIMID – a)fast b)shy  c)medium d)slow |b
-67.	Choose the odd one – a)sun b)mars c)moon d)universe |d
-68.	Man does not live by ...... alone – a)food b)bread c)meals d)diet |b
-69.	CUP : LIP :: BIRD : ? – a)bush b)forest c)grass d)beak |d
-70.	Disclosure always involves – a)display b)agent c)exposition d)secrets |c
-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
-71.	2,5,9,?,20,27 – a)12 b)14 c)15 d)13 |b
-72.	Spot the error – a)twice tweleve b)twenty four c)makes d)none |c
-73.	Antonyms of FRAUDULENT  a)candid b)direct c) forthright d)genuine |d
-74.	Synonyms of DISTANT – a)far b)removed  c)separate d)reserved |a
-75.	Choose the odd one – a)book b)paper c)pencil d)pen |a
-76.	I saw a ...... of cows in the field – a)group b)swarm c)herd d)flock |c
-77.	My uncle decided to take ...... and my sister to the market – a)me b)i c)my d)mine |a
-78.	The grapes are now ...... enough to be picked – a)ready b)ripe c)mature d)advanced |b
-79.	I don't really know how to ...... the problem – a)draw b)cope c)erase d)tackle |d
-80.	Moon : Satellite :: Earth : ? – a)sun b)planet c)universe d)moon |b
-81.	Clock : Time :: Thermometer : ? – a)radiation b)heat c)energy d)cold |a
-82.	Architect : Building :: Sculptor : ? – a)museum b)stone c)statue d)chisel |c
-83.	What is found necessarily in milk? – a)whiteness b)cream c)water d)curd |a
-84.	A song always has – a)tymbal b)music c)words d)chorus |c
-85.	A train always has – a)engine b)driver c)rails d)guard |a
-86.	Which of the following a 'Drama' must have? – a)set b)story c)music d)actors |b
-87.	6, 11, 21, 36, 56, ? – a)84 b)81 c)88 d)83 |b
-88.	7,12,19,?,39 – a)23 b)22 c)21 d)28 |d
-89.	2,2,5, 13,28,? – a)55 b)57 c)52 d)53 |c
-90.	Spot the error – a)i have got b)my M.Sc degree c)in 1988 d)none |a
-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
-91.	Spot the error – a)If I had known b)this yesterday I will have helped him d)none |c
-92.	Spot the error – a)One of the members b)expressed doubt if c)the Minister was an atheist d)none |b
-93.	He dislikes the word dislike, isn't he – a)did not he b)does not he c)has not d)he does he |a
+1. Antonyms of CONCEDE - a)object b)refuse c)grant d)accede |b
+2. Synonyms of DEBACLE - a)collapse b)decline  c)defeat d)disgrace |a
+3. Choose the odd one - a)under b)near c)beside d)where |d
+4. I haven't seen you ...... a week - a)within b)since c)for d)from |c
+5. Race : Fatigue :: Fast : ? - a)food b)laziness c)hunger d)race |c
+6. A camera always has - a)reels b)flash c)stand d)lens |d
+7. 1, 2, 3, 5, 8, ? - a)12 b)14 c)15 d)13 |d
+8. Spot the error - a)it is difficult b)for anyone c)to past time thus d)none |c
+9. Antonyms of CONFESS - a)deny b)refuse c)contest d)contend | a
+10. Synonyms of TEPID - a)hot b)warm  c)cold d)boiling |b
+11. Choose the odd one - a)carrot b)cabbage c)ginger d)potato |b
+12. The machine is difficult to build ...... easy to maintain - a)but b)and c)for d)if |a
+13. Cloth : Mill :: Newspaper : ? - a)editor b)reader c)paper d)press |d
+14. Which of the following is always associated with 'tree'? - a)flowers b)roots c)fruits d)none |b
+15. 6, 12, 21, ?, 48 - a)32 b)33 c)31 d)34 |v
+16. Spot the error - a)she sang b)very well c)isn't it d)none |c
+17. Antonyms of FAMOUS  a)disgraced b)unknown c)evil d)popular |b
+18. Synonyms of SHIVER - a)feel b)rock  c)tremble d)move |c
+19. Choose the odd one - a)calendar b)year c)day d)month |a
+20. That rule is applicable ...... every one - a)for b)to c)about d)with |b
+21. South : North-West :: West : ? - a)north b)north-east c)east d)west |b
+22. A disease always has - a)cure b)germs c)cause d)patient |c
+23. 2, 3, 5,7,11,?, 17 - a)12 b)14 c)15 d)13 |d
+24. Spot the error - a)he was in such hurry 	b)wait for me c)that he did not d)none |a
+25. Antonyms of LOVE  a)villainy b)force c) hatred d)compulsion |c
+26. Synonyms of WARY - a)sad b)vigilant  c)tired d)deserted |b
+27. Choose the odd one - a)bake b)fry c)peel d)roast |c
+28. Farida sings very well and ...... does salim - a)even b)too c)so d)also |c
+29. Tree : Forest :: Grass : ? - a)lawn b)garden c)park d)sky |a
+30. Danger always involves - a)fear b)attack c)enemy d)help |a
+31. 1, 3, 4, 8, 15, 27, ? - a)45 b)54 c)50 d)52 |c
+32. Spot the error - a)I wonder b)to do it c)how I am d)none |c
+33. Antonyms of COMFORT  a)uncomfort b)miscomfort c)discomfort d)none of these |c
+34. Synonyms of ENTIRE - a)part b)small  c)hole d)whole |d
+35. Choose the odd one - a)reader b)writer c)publisher d)reporter |a
+36. You haven't had your lunch yet, ...... you - a)are b)have c)did d)do |b
+37. College : Student :: Hospital : ? - a)nurse b)doctor c)patient d)treatment |c
+38. A car always has - a)wheels b)driver c)bonnet d)bumper |a
+39. 5,6,9, 15, ?, 40 - a)22 b)25 c)24 d)21 |b
+40. Spot the error - a)he loved b)none but c)his neighbour's daughter d)none |d
+x-x-x-x
+41. Antonyms of COMMON  a)rare b)small c) poor d)petty |a
+42. Synonyms of LYNCH - a)hang b)madden  c)kill d)shoot |c
+43. Choose the odd one - a)walk b)swim c)climb d)listen |d
+44. His father ...... him up in business - a)set b)put c)made d)built |a
+45. Melt : Liquid :: Freeze : ? - a)ice b)condense c)liquid d)solid |d
+46. A lotus always has - a)water b)root c)mud d)petals |d
+47. 6, 13, 25, 51, 101, ? - a)200 b)221 c)221 d)202 |d
+48. Spot the error - a)the school is b)within hundred yards c)from the chruch d)none |b
+49. Antonyms of AWARE  a)sure b)uncertain c) doubtful d)ignorant |d
+50. Synonyms of BARE - a)uncovered b)tolerate  c)clear d)neat |a
+51. Choose the odd one - a)inch b)foot c)quart d)yard |c
+52. She ...... a brief appearance at the end of party - a)put in b)show c)had d)did |a
+53. Peacock : India :: Bear : ? - a)Australia b)America c)Russia d)England |c
+54. A mirror always- a)distorts b)reflects c)refracts d)retracts |b
+55. 125,80,45,20,? - a)5 b)55 c)15 d)2 |a
+56. Spot the error - a) they b)enjoyed thoroughly c)at the party d)none |b
+57. Antonyms of EVASIVE  a)free b)honest c) liberal d)frank |b
+58. Synonyms of FEEBLE - a)vain b)shy  c)arrogant d)weak |d
+59. Choose the odd one - a)hostel b)club c)hotel d)inn |b
+60. The paths of glory lead ...... to the grave - a)straight b)in c)direct d)but |d
+61. Tractor : Trailer :: Horse : ? - a)cart b)stable c)engine d)saddle |a
+62. A bulb always has - a)light b)current c)glass d)filament |d
+63. 21,25,33,49,81, ? - a)144 b)145 c)154 d)133 |b
+64. Spot the error - a)my father b)goes to the office c)five day week d)none |c
+65. Antonyms of BUSY  a)occupied b)engrossed c) relaxed d)engaged |c
+66. Synonyms of TIMID - a)fast b)shy  c)medium d)slow |b
+67. Choose the odd one - a)sun b)mars c)moon d)universe |d
+68. Man does not live by ...... alone - a)food b)bread c)meals d)diet |b
+69. CUP : LIP :: BIRD : ? - a)bush b)forest c)grass d)beak |d
+70. Disclosure always involves - a)display b)agent c)exposition d)secrets |c
+x-x-x-x
+71. 2,5,9,?,20,27 - a)12 b)14 c)15 d)13 |b
+72. Spot the error - a)twice tweleve b)twenty four c)makes d)none |c
+73. Antonyms of FRAUDULENT  a)candid b)direct c) forthright d)genuine |d
+74. Synonyms of DISTANT - a)far b)removed  c)separate d)reserved |a
+75. Choose the odd one - a)book b)paper c)pencil d)pen |a
+76. I saw a ...... of cows in the field - a)group b)swarm c)herd d)flock |c
+77. My uncle decided to take ...... and my sister to the market - a)me b)i c)my d)mine |a
+78. The grapes are now ...... enough to be picked - a)ready b)ripe c)mature d)advanced |b
+79. I don't really know how to ...... the problem - a)draw b)cope c)erase d)tackle |d
+80. Moon : Satellite :: Earth : ? - a)sun b)planet c)universe d)moon |b
+81. Clock : Time :: Thermometer : ? - a)radiation b)heat c)energy d)cold |a
+82. Architect : Building :: Sculptor : ? - a)museum b)stone c)statue d)chisel |c
+83. What is found necessarily in milk? - a)whiteness b)cream c)water d)curd |a
+84. A song always has - a)tymbal b)music c)words d)chorus |c
+85. A train always has - a)engine b)driver c)rails d)guard |a
+86. Which of the following a 'Drama' must have? - a)set b)story c)music d)actors |b
+87. 6, 11, 21, 36, 56, ? - a)84 b)81 c)88 d)83 |b
+88. 7,12,19,?,39 - a)23 b)22 c)21 d)28 |d
+89. 2,2,5, 13,28,? - a)55 b)57 c)52 d)53 |c
+90. Spot the error - a)i have got b)my M.Sc degree c)in 1988 d)none |a
+x-x-x-x
+91. Spot the error - a)If I had known b)this yesterday I will have helped him d)none |c
+92. Spot the error - a)One of the members b)expressed doubt if c)the Minister was an atheist d)none |b
+93. He dislikes the word dislike, isn't he - a)did not he b)does not he c)has not d)he does he |a
+94. Fate smiles ...... those who untiringly grapple with stark realities of life. a)with  b)over c)on d)round |c
+95. My father loves me. - a)I loved my father b)I was loved by my father c)I were loved by my father d)I am loved by my father | d
+96. We hate him - a)He has hated by us b)He is hated by us c)He was hated by us d)He will hated by us |b
+97. He is making a film - a)A film is made by him b)A film had being made by him c)A film is being made by him d)A film has being made by him |c
+98. Shivu is singing a song - a)A song has been being sung by Shivu b)A song is sung by Shivu c)A song has being sung by Shivu d)A song is being sung by Shivu |d
+99. Someone has stolen his book - a)His book is been stolen b)His book has been stolen c)His book is stolen d)His book has stolen |b
+100. He stole that watch - a)That watch was stolen by him b)That watch stolen by him c)That watch stole by him d)That watch had stolen by him |a
+101. Sahil spoke the lie - a)The lie was spoke by Sahil b)The lie spoken by Sahil c)Lie was spoken by Sahil d)The lie was spoken by Sahil |d
+102. Thief killed him - a)He was kill by the thief b)He killed by the thief c)He was killed by the thief d)He was killed |c
+103. The police caught the culprit - a)The culprit were caught be the police b)The culprit was caught be the police c)The culprit caught be the police d)The culprit had caught be the police |b
+104. He was writing a love letter a)A love letter had being written by him b)A love letter being written by him c)A love letter was written by him d)A love letter was being written by him |d
+105. Sita was reading the Gita a)The Gita was being read by Sita b)The Gita were being read by Sita c)Gita was being read by Sita d)The Gita was read by Sita |a
+106. He had written a poem a)A poem has written by him b)A poem had written by him c)A poem had been written by him d)A poem has been written by him |c
+107. Somebody had already adopted him a)He have been already adopted b)He had already been adopted c)He had already adopted d)He has been already adopted |b
+108. DIVA:OPERA :: ? a)producer:theatre b)director:drama c)conductor:bus d)thespian:play |d
+109. Grain:Salt :: ? a)shard:wood b)shred:pottery c)blages:glass d)chip:glass |d
+110. Thrust:Spear :: ? a)mangle:iron b)scabbard:sword c)bow:arrow d)fence:epee |d
+x-x-x-x-x
+111. Pain:Sedative :: ? a)comfort:stimulant b)grief:consultation c)trance:narcotic d)ache:extraction |b
+112. Light:Blind :: ? a)speech:dumb b)language:deaf c)tongue:sound d)voice:vibration |a
+113. Wan:Colour :: ? a)corpulent:weight b)insipid:flavor c)pallid:complexion d)enigmatic:puzzle |c
+114. Pork:Pig :: ? a)rooster:chicken b)mutton:sheep c)steer:beef d)lobster:meat |b
+115. After:Before :: ? a)successor:predecessor b)first:second c)present:past d)big:small |a
+116. Indigent:Wealthy :: ? a)angry:rich b)native:affluent c)gauche:graceful d)scholarly:book |c
+117. Distance:Mile :: ? a)liquid:litre b)bushel:corn c)weight:scale d)fame:tv |a
+118. Ten:Decimal :: ? a)seven:serpent b)four:quartet c)two:binary d)five:quince |c
+119. Mundane:Spiritual :: ? a)common:ghost b)routine:novel c)secular:clerical d)worldly:unworldly |d
+120. Army:Logistics :: ? a)business:stratergy b)war:logic c)team:single d)soldier:studednts |a
+x-x-x-x
+121. Gravity:Pull :: ? a)iron:metal b)north:directions c)magnet:attract d)dust:dessert |c
+122. Filter:Water :: ? a)curtail:activity b)expunge:book c)edit:text d)censor:play |d
+123. Hope:Aspires :: ? a)lover:elevates b)film:flam c)fib:lie d)fake:original |c
+124. Corporeal:Spiritual :: ? a)mesa:plateau b)moron:savant c)foreig:immigrant d)heaven:hell |b
+125. Symphony:Composer :: ? a)fresco:painter b)art:writer c)music:singer d)color:pallet |a
+126. Our country is spiritual country, theirs . . . . . . religious - a)is b)are c)also d)have |a
+127. Our sir teaches Mathematics . . . . . . English - a)across b)besides c)beside d)both |b
+128. Please, come . . . . . . the bathroom - a)out of b)over c)on d)in |a
+129. Please, stop . . . . . so many mistakes - a)to make b)make c)making d)makes |c
+130. The English . . . . . English - a)spoke b)spoken c)is spoken d)speak |d
+x-x-x-x

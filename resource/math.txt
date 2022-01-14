@@ -1,87 +1,136 @@
-A line which cuts a pair of parallel lines is called (A) tangent (B) chord (C) traversal (D) intersector |c
-An angle whose value is ____, is called complete angle. (A) 180° (B) 240° (C) 360° (D) none of the above |c
-The areas of two similar triangles are 81 sq. cm and 49 sq. cm. Find the ratio of their corresponding heights. (A) 9:7 (B) 7:9 (C) 6:5 (D) 81:49 |a
-Consider ΔABD such that angle ADB = 20° and C is a point on BD such that AB=AC and CD=CA. Then the measure of angle ABC is (A) 30° (B) 40° (C) 45°(D) 60° |b
-If the length and breadth of a rectangle are increased by a% and b% respectively, then the area will be increased by (A) (a-b+2ab/100)% (B) (a+b+2ab/100)% (C) (a+b+ab/100)% (D) (a-b+ab/100)% |c
-A, B and C can complete a piece of work in 14, 6 and 12 days respectively. Working together, they will complete the work in (A) 19/9 days (B) 27 days (C) 28/9 days (D) 25/8 days |c
-If Px = Qy = Rz  and Q/P = R/Q, then 2z/(x+z) = ? (A) y/z (B) y/x (C) x/y (D) z/y |b
-A shopkeeper purchases 15 mangoes for Rs. 10 and sells them at 10 mangoes for Rs. 15. Thus, he earns a profit of (A) 50% (B) 75% (C) 80% (D) 125% |d
-4950/6 + 112 x 1.75 = ? x 2 (A) 510.5 (B) 505.2 (C) 515.5 (D) none of the above |a
-If a certain sum of money can become 5 times of its principal in 10 years, then the rate of interest is (A) 20% (B) 30% (C) 40% (D) 50% |c
-An amount of Rs. 10,000 becomes Rs. 20,736 in 2 years. If the rate of interest is compounded half yearly, what is the annual rate of interest? (A) 25% (B) 20% (C) 40% (D) 30% |c
-What will come in the place of question mark (?) in the following series?2, 5, 7, 12, 19, 31, 50, ? (A) 81 (B) 74 (C) 69 (D) none of the above |c
-In an equilateral triangle has the height of 12 cm then what is the area of the triangle? (A) 42√3 c.c. (B) 48√3 c.c. (C) 24√3 c.c. (D) 34√3 c.c. |c
-The monthly income and monthly expenditure ratio of A and B are 5:6 and 4:5 respectively. If both of them can have Rs. 500 as monthly savings, then what is the income of A? (A) Rs. 3,000 (B) Rs, 500 (C) Rs. 5,000 (D) Rs. 2,500 |d
-Find out the least number which when multiplied by 45, the result becomes a perfect square. (A) 9 (B) 15 (C) 5 (D) None of the above |c
-(175)2 – (75)2 = ? (A) 5000 (B) 20000 (C) 25000 (D) None of the above |c
-If a = (√3+1)/(√3-1) and b = (√3-1)/(√3+1) then (a2+ab+b2)/(a2-ab+b2) = ? (A) 15/11 (B) 17/11 (C) 19/11 (D) 1 |d
-If the fractions 3/5, 2/3, ¼, 5/7 and 6/11 are arranged in ascending order of their values, then which one will be the fourth (A) 3/5 (B) 1/4 (C) 5/7 (D) 2/3 |d
-hectare = ? (A) 1000 m2 (B) 10000 m2 (C) 100000 m2 (D) None of the above |b
-The sum of two numbers is 24 and the sum of their squares is 386, then one number is (A) 17 (B) 19 (C) 9 (D) 11 |b
-A wheel rotates 15 times each minute. How many degrees will it rotate in 12 seconds of time? (A) 360° (B) 720° (C) 1080° (D) None of the above |c
-If f(n) = n5 – n, n ϵ N, then f(n) is divisible by (A) 25 (B) 30 (C) 35 (D) 32 |b
-If “+” means “-“, “-“ means “x” means “/” and “/” means “+”, then 22 – 50 + 40 x 10 / 4 = ? (A) 104 (B) 100 (C) 98 (D) 110 |b
-In the below series, which number comes next? 1, 3, 7, 15, 31, 63, ? (A) 120 (B) 126 (C) 127 (D) 94 |c
-A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train? (A) 230 m (B) 240 m (C) 260 m (D) 270 m |d
-The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is (A) 15 (B) 16 (C) 18 (D) 25 |b
-By what least number, 432/625 be divided to get a perfect cube? (A) 4/5 (B) 6/5 (C) 5/6 (D) 2/5 |d
-The difference between two positive numbers is 3 and the sum of their squares is 369. Then the sum of the numbers is (A) 33 (B) 20 (C) 81 (D) 27 |d
-A reduction of 20% in the price of sugar enables a purchaser to obtain 3 kg more for Rs. 120. The original price of sugar per kg is (A) Rs. 15 (B) Rs. 12 (C) Rs. 8 (D) Rs. 10 |d
-The average of the first five multiples of 3 is (A) 3 (B) 9 (C) 12 (D) 15 |b
-A reduction in the price of apples enables a person to purchase 3 apples for Re. 1 instead of Rs. 1.25. The percent reduction in price is (A) 20% (B) 25% (C) 30% (D) 35% |a
-If a+b:b+c:c+a = 6:7:8 and a+b+c = 14, then value of ‘c’ is (A) 6 (B) 7 (C) 8 (D) 14 |a
-If two numbers are in the ratio of 5:8 and if 9 is added to each, the ratio becomes 8:11. Find the sum of the numbers. (A) 39 (B) 49 (C) 64 (D) 19 |a
-If √5 = 2.24 and √6 = 2.45, then the value of (√2/√3)+(√5/√6)=? (A) 1.37 (B) 1.57 (C) 1.73 (D) 1.75 |c
-(16)0.16x(16)0.04x(2)0.2 is equal to (A) 1 (B) 2 (C) 4 (D) 16 |b 
-If 257.5 x 52.5 / 1251.5 = 5x, then the value of ‘x’ is (A) 16 (B) 17.5 (C) 8.5 (D) 13 |d
-The value of [(1/5)/(1/5) of 1/5]/[(1/5) of (1/5) / (1/5)] is (A) 1 (B) 25 (C) 1/25 (D) 125 |a
-A fraction is such that if the numerator is multiplied by 3 and denominator is reduced by 3, we get 18/11, but if the numerator is increased by 8 and the denominator is doubled, we get 2/5. Then the fraction is (A) 8/15 (B) 12/25 (C) 11/21 (D) 9/28 |b
-If two numbers are in the ratio of 5:8 and 9 is added to each, the ratio becomes 8:11. Find the sum of the numbers. (A) 39 (B) 49 (C) 64 (D) 19 |a
-On selling a pen for Rs. 18, a man loses 1/10 of its cost price. The cost price of the pen is (A) Rs. 16.20 (B) Rs. 19.80 (C) Rs. 20 (D) Rs. 25 |c
-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
-Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is (A) 15 (B) 16 (C) 18 (D) 25 |b
-56 men can complete a piece of work in 24 days. In how many days can 42 men complete the same piece of work? (A) 18 (B) 32 (C) 98 (D) 48 |b
-A train running at 36 km/h takes 10 s to pass a telegraph pole. How long would it take to cross a platform 110m long? (A) 24 s (B) 31 s (C) 21 s (D) 33 s |c
-The perimeter of a rectangle is 28 m, whereas its area is 48 m2. What is the length of its diagonal? (A) 5 m (B) 10 m (C) 12 m (D) 12.5 m |b
-The length of a rectangle is 1 cm more than its width. Its perimeter is 14 cm. The area of the rectangle is (A) 16 cm2 (B) 14 cm2 (C) 12 cm2 (D) 10 cm2 |c
-A hall, 20 m long and 15 m broad, is surrounded by a verandah of uniform width of 2.5 m. The cost of flooring the verandah at Rs. 3.50 per square metre is (A) Rs. 500 (B) Rs. 600 (C) Rs. 700 (D) Rs. 800 |c
-The cost of levelling a rectangular ground at Rs. 1.25per m2 is Rs. 900. If the length of the ground is 30 m, then the width is (A) 20 m (B) 24 m (C) 28 m (D) 32 m |b
-If the side of a square be increased by 4 cms, the area increases by 60 cms2 . The side of the square is (A) 5.5 cm (B) 10 cm (C) 12.5 cm (D) 15 cm |a
-If the surface areas of two spheres are in the ratio of 4:25 then the ratio of their volume is (A) 4:25 (B) 25:4  (C) 125:8 (D) 8:125 |d
-The ratio of the area of a square to that of the square drawn on its diagonal is (A) 1:1 (B) 1:2 (C) 1:3 (D) 1:4 |b
-The length of the longest rod that can be placed in a room of dimensions 10m x 10m x 5m is (A) 10 m (B) 15 m (C) 20 m (D) 25 m |b
-The radius of a circular cylinder is the same as that of a sphere. There volumes are equal. The height of the cylinder is (A) 1/3 times its radius (B) 2/3 times its radius (C) ½ times its radius (D) 4/3 times its radius |d
-Find the surface area of a cube when its volume is 729 mm3. (A) 332mm2 (B) 486mm2 (C) 432mm2 (D) 211mm2 |b
-Find the total surface area of a pyramid having a slant height of 6 cm and a base which is a square of sides 4 cm each. (A) 64cm2 (B) 22cm2 (C) 33cm2 (D) 75cm2 |a
-Find the area of a triangle if its breadth and length are 8cm and 15cm respectively. (A) 60cm2 (B) 22cm2 (C) 34cm2 (D) 24cm2 |a
-What is the area of an equilateral triangle with each side being 8cm long? (A) 13cm2 (B) 22√3cm2 (C) 54cm2 (D) 16√3cm2 |d
-The perimeter of a triangle is 14cm and its inradius is 3cm. What is the area of this triangle? (A) 54cm2 (B) 32cm2 (C) 21cm2 (D) 42cm2 |c
-Areas of two circles are in the ratio 1:2. What will be the ratio of their circumferences? (A) 3:√2 (B) 2:3 (C) 1:√2 (D) 4:9 |c
-Find the circumference and area of a circle with radius 2.6 cm. (A) 16.3cm and 21.23cm2 (B) 44cm and 2.56cm2 (C) 12cm and 23.2cm2 (D) 34cm and 78cm2 |a
-The parallel sides of a trapezium measure 6cm and 8cm. Calculate its area if the distance between the parallel lines is 15cm.  (A) 345 cm2 (B) 441 cm2 (C) 112 cm2 (D) 105 cm2 |d
-If the radius of the sphere is 3r then what is its volume?  (A) 18πr3 (B) 36πr2 (C) 36πr3 (D) 22πr3 |c
-Find the area of a circle with circumference 108 cm. (A) 910.56 cm2 (B) 915.04 cm2 (C) 908.18 cm2 (D) 927.81 cm2 |d
-The area of a circle directly varies with the square of its radius. If the area of a circle with radius 5 cm is ‘C’ cm2, find the area of the circle with radius 25 cm. (A) 13C cm2 (B) 25C cm2 (C) 11C cm2 (D) 34C cm2 |b
-Find its area when a sector has an angle 15o and is cut out from a circle of radius 28cm. (A) 1026.7 cm2 (B) 1028.8 cm2 (C) 1027.6 cm2 (D) 1020.7 cm2 |a
-The circumference of two circles are in the ratio 1:9. The ratio of their area is: (A) 4:9 (B) 81:16 (C) 9:4 (D) 1:81 |d
-The base and height of the triangle are in ratio 2:5. If the area of the triangle is 245 cm2 find the base and height of the triangle. (A) Height 9cm and Base 7cm (B) Height 14cm and Base 35cm (C) Height 1cm and Base 22cm (D) Height 64cm and Base 10cm |b
-The list price of a book is Rs. 220. A discount of 20% on sales is announced. What is the amount of discount on it and its selling price? (A) 20, 84 (B) 30, 95 (C) 52, 180 (D) 44, 176 |d
-If a discount of 20% is given then selling price of an article is Rs. 24. What would be the selling price if the discount of 30% is given? (A) Rs. 19 (B) Rs. 20 (C) Rs. 21 (D) Rs. 22 |c
-Sara baked cakes for the school festival. The cost of one cake was Rs. 55. She sold 25 cakes and made a profit of Rs. lion each cake. Find the selling price of the cakes (A) Rs. 1,350 (B) Rs. 1,450 (C) Rs. 1,500 (D) Rs. 1,650 |d
-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
-A bicycle marked at Rs. 1,500 is sold to a 1,350. What is the percentage of discount? (A) 7.5% (B) 10% (C) 12% (D) 15% |b
-A man sells two wrist watches at Rs. 594 each. On one he gains 10% and on the other he loses 10%. On the whole there is (A) 1% loss (B) 1% profit (C) 11% loss (D) 11% profit |a
-The cost price of 20 articles is the same as selling price of x articles. If the profit is 25% then the number of articles is (A) 15 (B) 16 (C) 17 (D) 18 |b
-A man buys 10articles for Rs. 8 and sells them at the rate of Rs. 1.25 per article. His gain is (A) 20.5% (B) 50.25% (C) 52% (D) 56.25% |Raman bought an old bike for Rs. 4300 and spends Rs. 900 on its repair. He sold the bike for Rs. 4200. Did he make a profit or incur a loss and by how much? (A) Profit of Rs. 1000 (B) Loss of Rs. 1000 (C) Profit of Rs. 1500 (D) Loss of Rs. 1200 |b
-John purchases 20 dozens of toys at the rate of Rs.225 per dozen. He sells each toy at the rate of Rs.25. What is his percentage profit? (A) 45.23% (B) 35.55% (C) 33.33% (D) 56.23% |c
-In a transaction, the profit percentage is 50% of the cost. If the cost increases by 20%, but the selling price remains the same, how much is the decrease in profit percentage? (A) 25% (B) 35% (C) 45% (D) 40% |a
-Raju sold a cow for Rs. 16000 at a loss of 20%. At what price should he have sold it to gain 20%? (A) Rs. 24800 (B) Rs. 16000 (C) Rs. 19200 (D) Rs. 18600 |c
-Raju bought an oven for Rs. 25000. He sold it for Rs. 28000. What percentage of profit did he earn? (A) 9% (B) 10% (C) 11% (D) 12% |d
-Rinku buys a book for Rs. 250 and sells it at a loss of 15%. What is the selling price of the book (A) Rs. 210.25 (B) Rs. 225.75 (C) Rs. 212.50 (D) Rs. 234.75 |c
-Raju sold a cow for Rs.14000 at a loss of 20%. At what price should he have sold it to gain 20%? (A) Rs. 16800 (B) Rs. 16000 (C) Rs. 21000 (D) Rs. 18600 |c
-Chandra buys a mixer grinder for Rs. 3500 and sells it at a loss of 15%. What is the selling price of the mixer grinder? (A) Rs. 2500 (B) Rs. 2895 (C) Rs. 2975 (D) Rs. 2960 |c
-A shopkeeper buys 1000 umbrellas for Rs.85 each. He sells them for Rs.100 each. Did he make a profit or incur a loss and by how much? (A) Profit of Rs. 10000   (B) Loss of Rs. 85000 (C) Profit of Rs. 15000 (D) Profit of Rs. 16000 |c
-The loss incurred by selling a mobile phone is Rs. 1000. Find the loss percentage if the cost of the mobile phone was Rs. 16000. (A) 4.50% (B) 5.65% (C) 6.25% (D) 7.45% |c
-Arjun buys 2000 caps for Rs.63 each. He sells them for Rs.87 each. Did he make a profit or incur a loss and by how much? (A) Profit of Rs. 24000 (B) Loss of Rs. 27500 (C) Profit of Rs. 48000 (D) Profit of Rs. 34600 |c
-Ramu bought a television for Rs. 21,950 and sold it at a loss of Rs. 2,580. Find the selling price of the television? (A) Rs. 20,680 (B) Rs. 19,370 (C) Rs. 18,540 (D) Rs. 16,560 |b
-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+1.	A line which cuts a pair of parallel lines is called (A) tangent (B) chord (C) traversal (D) intersector |c
+2.	An angle whose value is ____, is called complete angle. (A) 180° (B) 240° (C) 360° (D) none of the above |c
+3.	The areas of two similar triangles are 81 sq. cm and 49 sq. cm. Find the ratio of their corresponding heights. (A) 9:7 (B) 7:9 (C) 6:5 (D) 81:49 |a
+4.	Consider ΔABD such that angle ADB = 20° and C is a point on BD such that AB=AC and CD=CA. Then the measure of angle ABC is (A) 30° (B) 40° (C) 45°(D) 60° |b
+5.	If the length and breadth of a rectangle are increased by a% and b% respectively, then the area will be increased by (A) (a-b+2ab/100)% (B) (a+b+2ab/100)% (C) (a+b+ab/100)% (D) (a-b+ab/100)% |c
+6.	A, B and C can complete a piece of work in 14, 6 and 12 days respectively. Working together, they will complete the work in (A) 19/9 days (B) 27 days (C) 28/9 days (D) 25/8 days |c
+7.	If Px = Qy = Rz  and Q/P = R/Q, then 2z/(x+z) = ? (A) y/z (B) y/x (C) x/y (D) z/y |b
+8.	A shopkeeper purchases 15 mangoes for Rs. 10 and sells them at 10 mangoes for Rs. 15. Thus, he earns a profit of (A) 50% (B) 75% (C) 80% (D) 125% |d
+9.	4950/6 + 112 x 1.75 = ? x 2 (A) 510.5 (B) 505.2 (C) 515.5 (D) none of the above |a
+10.	If a certain sum of money can become 5 times of its principal in 10 years, then the rate of interest is (A) 20% (B) 30% (C) 40% (D) 50% |c
+11.	An amount of Rs. 10,000 becomes Rs. 20,736 in 2 years. If the rate of interest is compounded half yearly, what is the annual rate of interest? (A) 25% (B) 20% (C) 40% (D) 30% |c
+12.	What will come in the place of question mark (?) in the following series?2, 5, 7, 12, 19, 31, 50, ? (A) 81 (B) 74 (C) 69 (D) none of the above |c
+13.	In an equilateral triangle has the height of 12 cm then what is the area of the triangle? (A) 42√3 c.c. (B) 48√3 c.c. (C) 24√3 c.c. (D) 34√3 c.c. |c
+14.	The monthly income and monthly expenditure ratio of A and B are 5:6 and 4:5 respectively. If both of them can have Rs. 500 as monthly savings, then what is the income of A? (A) Rs. 3,000 (B) Rs, 500 (C) Rs. 5,000 (D) Rs. 2,500 |d
+15.	Find out the least number which when multiplied by 45, the result becomes a perfect square. (A) 9 (B) 15 (C) 5 (D) None of the above |c
+16.	(175)2 – (75)2 = ? (A) 5000 (B) 20000 (C) 25000 (D) None of the above |c
+17.	If a = (√3+1)/(√3-1) and b = (√3-1)/(√3+1) then (a2+ab+b2)/(a2-ab+b2) = ? (A) 15/11 (B) 17/11 (C) 19/11 (D) 1 |d
+18.	If the fractions 3/5, 2/3, ¼, 5/7 and 6/11 are arranged in ascending order of their values, then which one will be the fourth (A) 3/5 (B) 1/4 (C) 5/7 (D) 2/3 |d
+19.	hectare = ? (A) 1000 m2 (B) 10000 m2 (C) 100000 m2 (D) None of the above |b
+20.	The sum of two numbers is 24 and the sum of their squares is 386, then one number is (A) 17 (B) 19 (C) 9 (D) 11 |b
+21.	A wheel rotates 15 times each minute. How many degrees will it rotate in 12 seconds of time? (A) 360° (B) 720° (C) 1080° (D) None of the above |c
+22.	If f(n) = n5 – n, n ϵ N, then f(n) is divisible by (A) 25 (B) 30 (C) 35 (D) 32 |b
+23.	If “+” means “-“, “-“ means “x” means “/” and “/” means “+”, then 22 – 50 + 40 x 10 / 4 = ? (A) 104 (B) 100 (C) 98 (D) 110 |b
+24.	In the below series, which number comes next? 1, 3, 7, 15, 31, 63, ? (A) 120 (B) 126 (C) 127 (D) 94 |c
+25.	A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train? (A) 230 m (B) 240 m (C) 260 m (D) 270 m |d
+26.	The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is (A) 15 (B) 16 (C) 18 (D) 25 |b
+27.	By what least number, 432/625 be divided to get a perfect cube? (A) 4/5 (B) 6/5 (C) 5/6 (D) 2/5 |d
+28.	The difference between two positive numbers is 3 and the sum of their squares is 369. Then the sum of the numbers is (A) 33 (B) 20 (C) 81 (D) 27 |d
+29.	A reduction of 20% in the price of sugar enables a purchaser to obtain 3 kg more for Rs. 120. The original price of sugar per kg is (A) Rs. 15 (B) Rs. 12 (C) Rs. 8 (D) Rs. 10 |d
+30.	The average of the first five multiples of 3 is (A) 3 (B) 9 (C) 12 (D) 15 |b
+31.	A reduction in the price of apples enables a person to purchase 3 apples for Re. 1 instead of Rs. 1.25. The percent reduction in price is (A) 20% (B) 25% (C) 30% (D) 35% |a
+32.	If a+b:b+c:c+a = 6:7:8 and a+b+c = 14, then value of ‘c’ is (A) 6 (B) 7 (C) 8 (D) 14 |a
+33.	If two numbers are in the ratio of 5:8 and if 9 is added to each, the ratio becomes 8:11. Find the sum of the numbers. (A) 39 (B) 49 (C) 64 (D) 19 |a
+34.	If √5 = 2.24 and √6 = 2.45, then the value of (√2/√3)+(√5/√6)=? (A) 1.37 (B) 1.57 (C) 1.73 (D) 1.75 |c
+35.	(16)0.16x(16)0.04x(2)0.2 is equal to (A) 1 (B) 2 (C) 4 (D) 16 |b 
+36.	If 257.5 x 52.5 / 1251.5 = 5x, then the value of ‘x’ is (A) 16 (B) 17.5 (C) 8.5 (D) 13 |d
+37.	The value of [(1/5)/(1/5) of 1/5]/[(1/5) of (1/5) / (1/5)] is (A) 1 (B) 25 (C) 1/25 (D) 125 |a
+38.	A fraction is such that if the numerator is multiplied by 3 and denominator is reduced by 3, we get 18/11, but if the numerator is increased by 8 and the denominator is doubled, we get 2/5. Then the fraction is (A) 8/15 (B) 12/25 (C) 11/21 (D) 9/28 |b
+39.	If two numbers are in the ratio of 5:8 and 9 is added to each, the ratio becomes 8:11. Find the sum of the numbers. (A) 39 (B) 49 (C) 64 (D) 19 |a
+40.	On selling a pen for Rs. 18, a man loses 1/10 of its cost price. The cost price of the pen is (A) Rs. 16.20 (B) Rs. 19.80 (C) Rs. 20 (D) Rs. 25 |c
+x-x-x-x-x-x
+41.	Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is (A) 15 (B) 16 (C) 18 (D) 25 |b
+42.	56 men can complete a piece of work in 24 days. In how many days can 42 men complete the same piece of work? (A) 18 (B) 32 (C) 98 (D) 48 |b
+43.	A train running at 36 km/h takes 10 s to pass a telegraph pole. How long would it take to cross a platform 110m long? (A) 24 s (B) 31 s (C) 21 s (D) 33 s |c
+44.	The perimeter of a rectangle is 28 m, whereas its area is 48 m2. What is the length of its diagonal? (A) 5 m (B) 10 m (C) 12 m (D) 12.5 m |b
+45.	The length of a rectangle is 1 cm more than its width. Its perimeter is 14 cm. The area of the rectangle is (A) 16 cm2 (B) 14 cm2 (C) 12 cm2 (D) 10 cm2 |c
+46.	A hall, 20 m long and 15 m broad, is surrounded by a verandah of uniform width of 2.5 m. The cost of flooring the verandah at Rs. 3.50 per square metre is (A) Rs. 500 (B) Rs. 600 (C) Rs. 700 (D) Rs. 800 |c
+47.	The cost of levelling a rectangular ground at Rs. 1.25per m2 is Rs. 900. If the length of the ground is 30 m, then the width is (A) 20 m (B) 24 m (C) 28 m (D) 32 m |b
+48.	If the side of a square be increased by 4 cms, the area increases by 60 cms2 . The side of the square is (A) 5.5 cm (B) 10 cm (C) 12.5 cm (D) 15 cm |a
+49.	If the surface areas of two spheres are in the ratio of 4:25 then the ratio of their volume is (A) 4:25 (B) 25:4  (C) 125:8 (D) 8:125 |d
+50.	The ratio of the area of a square to that of the square drawn on its diagonal is (A) 1:1 (B) 1:2 (C) 1:3 (D) 1:4 |b
+51.	The length of the longest rod that can be placed in a room of dimensions 10m x 10m x 5m is (A) 10 m (B) 15 m (C) 20 m (D) 25 m |b
+52.	The radius of a circular cylinder is the same as that of a sphere. There volumes are equal. The height of the cylinder is (A) 1/3 times its radius (B) 2/3 times its radius (C) ½ times its radius (D) 4/3 times its radius |d
+53.	Find the surface area of a cube when its volume is 729 mm3. (A) 332mm2 (B) 486mm2 (C) 432mm2 (D) 211mm2 |b
+54.	Find the total surface area of a pyramid having a slant height of 6 cm and a base which is a square of sides 4 cm each. (A) 64cm2 (B) 22cm2 (C) 33cm2 (D) 75cm2 |a
+55.	Find the area of a triangle if its breadth and length are 8cm and 15cm respectively. (A) 60cm2 (B) 22cm2 (C) 34cm2 (D) 24cm2 |a
+56.	What is the area of an equilateral triangle with each side being 8cm long? (A) 13cm2 (B) 22√3cm2 (C) 54cm2 (D) 16√3cm2 |d
+57.	The perimeter of a triangle is 14cm and its inradius is 3cm. What is the area of this triangle? (A) 54cm2 (B) 32cm2 (C) 21cm2 (D) 42cm2 |c
+58.	Areas of two circles are in the ratio 1:2. What will be the ratio of their circumferences? (A) 3:√2 (B) 2:3 (C) 1:√2 (D) 4:9 |c
+59.	Find the circumference and area of a circle with radius 2.6 cm. (A) 16.3cm and 21.23cm2 (B) 44cm and 2.56cm2 (C) 12cm and 23.2cm2 (D) 34cm and 78cm2 |a
+60.	The parallel sides of a trapezium measure 6cm and 8cm. Calculate its area if the distance between the parallel lines is 15cm.  (A) 345 cm2 (B) 441 cm2 (C) 112 cm2 (D) 105 cm2 |d
+61.	If the radius of the sphere is 3r then what is its volume?  (A) 18πr3 (B) 36πr2 (C) 36πr3 (D) 22πr3 |c
+62.	Find the area of a circle with circumference 108 cm. (A) 910.56 cm2 (B) 915.04 cm2 (C) 908.18 cm2 (D) 927.81 cm2 |d
+63.	The area of a circle directly varies with the square of its radius. If the area of a circle with radius 5 cm is ‘C’ cm2, find the area of the circle with radius 25 cm. (A) 13C cm2 (B) 25C cm2 (C) 11C cm2 (D) 34C cm2 |b
+64.	Find its area when a sector has an angle 15o and is cut out from a circle of radius 28cm. (A) 1026.7 cm2 (B) 1028.8 cm2 (C) 1027.6 cm2 (D) 1020.7 cm2 |a
+65.	The circumference of two circles are in the ratio 1:9. The ratio of their area is: (A) 4:9 (B) 81:16 (C) 9:4 (D) 1:81 |d
+66.	The base and height of the triangle are in ratio 2:5. If the area of the triangle is 245 cm2 find the base and height of the triangle. (A) Height 9cm and Base 7cm (B) Height 14cm and Base 35cm (C) Height 1cm and Base 22cm (D) Height 64cm and Base 10cm |b
+67.	The list price of a book is Rs. 220. A discount of 20% on sales is announced. What is the amount of discount on it and its selling price? (A) 20, 84 (B) 30, 95 (C) 52, 180 (D) 44, 176 |d
+68.	If a discount of 20% is given then selling price of an article is Rs. 24. What would be the selling price if the discount of 30% is given? (A) Rs. 19 (B) Rs. 20 (C) Rs. 21 (D) Rs. 22 |c
+69.	Sara baked cakes for the school festival. The cost of one cake was Rs. 55. She sold 25 cakes and made a profit of Rs. lion each cake. Find the selling price of the cakes (A) Rs. 1,350 (B) Rs. 1,450 (C) Rs. 1,500 (D) Rs. 1,650 |d
+70.	A bicycle marked at Rs. 1,500 is sold to a 1,350. What is the percentage of discount? (A) 7.5% (B) 10% (C) 12% (D) 15% |b
+x-x-x-x-x
+71.	A man sells two wrist watches at Rs. 594 each. On one he gains 10% and on the other he loses 10%. On the whole there is (A) 1% loss (B) 1% profit (C) 11% loss (D) 11% profit |a
+72.	The cost price of 20 articles is the same as selling price of x articles. If the profit is 25% then the number of articles is (A) 15 (B) 16 (C) 17 (D) 18 |b
+73.	A man buys 10articles for Rs. 8 and sells them at the rate of Rs. 1.25 per article. His gain is (A) 20.5% (B) 50.25% (C) 52% (D) 56.25% | Raman bought an old bike for Rs. 4300 and spends Rs. 900 on its repair. He sold the bike for Rs. 4200. Did he make a profit or incur a loss and by how much? (A) Profit of Rs. 1000 (B) Loss of Rs. 1000 (C) Profit of Rs. 1500 (D) Loss of Rs. 1200 |b
+74.	John purchases 20 dozens of toys at the rate of Rs.225 per dozen. He sells each toy at the rate of Rs.25. What is his percentage profit? (A) 45.23% (B) 35.55% (C) 33.33% (D) 56.23% |c
+75.	In a transaction, the profit percentage is 50% of the cost. If the cost increases by 20%, but the selling price remains the same, how much is the decrease in profit percentage? (A) 25% (B) 35% (C) 45% (D) 40% |a
+76.	Raju sold a cow for Rs. 16000 at a loss of 20%. At what price should he have sold it to gain 20%? (A) Rs. 24800 (B) Rs. 16000 (C) Rs. 19200 (D) Rs. 18600 |c
+77.	Raju bought an oven for Rs. 25000. He sold it for Rs. 28000. What percentage of profit did he earn? (A) 9% (B) 10% (C) 11% (D) 12% |d
+78.	Rinku buys a book for Rs. 250 and sells it at a loss of 15%. What is the selling price of the book (A) Rs. 210.25 (B) Rs. 225.75 (C) Rs. 212.50 (D) Rs. 234.75 |c
+79.	Raju sold a cow for Rs.14000 at a loss of 20%. At what price should he have sold it to gain 20%? (A) Rs. 16800 (B) Rs. 16000 (C) Rs. 21000 (D) Rs. 18600 |c
+80.	Chandra buys a mixer grinder for Rs. 3500 and sells it at a loss of 15%. What is the selling price of the mixer grinder? (A) Rs. 2500 (B) Rs. 2895 (C) Rs. 2975 (D) Rs. 2960 |c
+81.	A shopkeeper buys 1000 umbrellas for Rs.85 each. He sells them for Rs.100 each. Did he make a profit or incur a loss and by how much? (A) Profit of Rs. 10000   (B) Loss of Rs. 85000 (C) Profit of Rs. 15000 (D) Profit of Rs. 16000 |c
+82.	The loss incurred by selling a mobile phone is Rs. 1000. Find the loss percentage if the cost of the mobile phone was Rs. 16000. (A) 4.50% (B) 5.65% (C) 6.25% (D) 7.45% |c
+83.	Arjun buys 2000 caps for Rs.63 each. He sells them for Rs.87 each. Did he make a profit or incur a loss and by how much? (A) Profit of Rs. 24000 (B) Loss of Rs. 27500 (C) Profit of Rs. 48000 (D) Profit of Rs. 34600 |c
+84.	Ramu bought a television for Rs. 21,950 and sold it at a loss of Rs. 2,580. Find the selling price of the television? (A) Rs. 20,680 (B) Rs. 19,370 (C) Rs. 18,540 (D) Rs. 16,560 |b
+85.	If LCM of ‘’a’’ and ‘’b’’ is a and LCM of ‘’b’’ and ‘’c’’ is b, then what is the LCM of ‘’c’’ and ‘’a’’. (A) a (B) b (C) c (D) abc |a
+86.	The GCD and LCM of two polynomials are x+1 and x4-1 respectively. If one of the polynomials is x2+1, find other one (A) x3-1 (B) (x + 1)(x2 – 1) (C) x2 + x – 1 (D) x2 – x + 1 |b
+87.	Find the Highest Common Factor of 4p2q3r, 8p3q2r2, 16p2q4r3 (A) 4p2q4r3 (B) 4p2q2r (C) 16p2q2r (D) 16p2q4r3 |b
+88.	The H.C.F. of 2/3, 8/9, 64/81, 10/27 is (A) 2/3 (B) 2/81 (C) 160/3 (D) 160/81 |b
+89.	Find the HCF of 9a2b2, 18b2c2, 27c2a2 (A) 9 (B) 18 (C) 27 (D) 36 |a
+90.	The HCF of 4 x 27 x 3125, 8 x 9 x 25 x 7 and 16 x 81 x 5 x 11 x 49 is (A) 180 (B) 360 (C) 540 (D) 1260 |a
+x-x-x-x-x-x
+91.	Find the L.C.M. of 35 a2c3b, 42 a3cb2, 30 ac2b3 (A) 7 a2b2c2 (B) 210 abc (C) 210 a3b3c3 (D) 210 a2b2c2 |c
+92.	The H.C.F. and L.C.M. of two numbers are 50 and 250 respectively. If the first number is divided by 2, the quotient is 50. Find the second number (A) 50 (B) 75 (C) 100 (D) 125 |d
+93.	The HCF of 108, 360 and 408 is (A) 6 (B) 10 (C) 12 (D) 14|c
+94.	The LCM of two numbers is 2079 then HCF is 27. If the 1st number is 189, then the 2nd number is (A) 195 (B) 215 (C) 246 (D) 297 |d
+95.	Find the LCM of 12(x-1)3 and 15(x-1)(x+2)2 (A) 60(x-1)3(x+2)2 (B) 60(x-1) (C) 3(x-1) (D) 3(x-1)3(x+2)2 |a
+96.	The L.C.M. of 22, 54, 108, 135 and 198 is (A) 300 (B) 1890 (C) 5940 (D) 10560 |c
+97.	If P is a prime number, then the L.C.M. of P and P + 1 is (A) P2 + 1 (B) P(P+1)/2 (C) (P+1)2 (D) P(P+1) |d
+98.	The ratio of two numbers is 3:4 and their H.C.F is 4. Find their L.C.M. (A) 12 (B) 16 (C) 24 (D) 48 |d
+99.	The HCF and LCM of two numbers m and n are 6 and 210 respectively. If m + n =72 the 1/m + 1/n is equal to (A) 1/35 (B) 2/35 (C) 3/35 (D) 4/35 |b
+100.	Three numbers are in the ratio 3:4:5 and their LCM is 2400. Find the HCF. (A) 40 (B) 70 (C) 110 (D) 180 |a
+101.	Three numbers are in the ratio of 2:3:4 an their HCF is 10. The numbers are (A) 10, 20, 30 (B) 20, 30, 40 (C) 30, 20, 40 (D) 40, 20, 30 |b
+102.	The LCM of two numbers is 2310 and their HCF is 30. If one number is 210, the other number is (A) 330 (B) 1370 (C) 2010 (D) 16570 |a
+103.	The HCF of 6/7, 5/14 and 10/21 is  (A) 5/7 (B) 1/21 (C) 1/42 (D) 30/7 |c
+104.	LCM of x3 – a3 and (x – a)2 is (A) (x3 – a3) (x – a) (B) (x3 – a3) (x – a)2 (C) (x3 – a3) (x + a) (D) (x – a)2 (x2 + ax + a2) |d
+105.	The sum of two numbers is 40 and their difference is 4. Then the ratio of the two numbers is  (A) 11:9 (B) 11:17 (C) 20:19 (D) 21:5 |a
+106.	The approximate standard deviation of 10 natural numbers is  (A) 2.57 (B) 2.67  (C) 2.77 (D) 2.87 |d
+107.	Sum of three consecutive integers is 45. Find the integers. (A) 13, 14, 15 (B) 14, 15, 16 (C) 15, 16, 17 (D) 16, 17, 18 |b
+108.	Simplify 5√3 + 18√3 – 2√3 (A) 11√3 (B) 12√3 (C) 18√3 (D) 21√3 |d
+109.	The sum of a number and its reciprocal is 6(1/6). Find the numbers. (A) 5, 1/4 (B) 6, -5 (C) 6, 1/6 (D) 5, -1/5 |c
+110.	Which of the following is not a prime number? (A) 240 (B) 335 (C) 391 (D) 575 |c
+x-x-x-x-x-x-x
+111.	Simplfy 2/3 of [5(1/6) – 4(3/8)] (A) 1/3 (B) 19/36 (C) -5/17 (D) -7/9 |b
+112.	The sum of the digits of a two digit number is 15 and the difference between the digits is 3. What is the two digit number? (A) 68 (B) 78 (C) 85 (D) 96 |d
+113.	The sum and product of two numbers are 12 and 35 respectively. What is the sum of their reciprocals? (A) 11/35 (B) 12/35 (C) 13/35 (D) 14/35 |b
+114.	The least perfect square number which is divisible by 3, 4, 5, 6 and 8 is (A) 900 (B) 1200 (C) 2500 (D) 3600 |d
+115.	The product of two consecutive numbers is 4032. Find the numbers (A) 61, 62 (B) 63, 64 (C) 71, 72 (D) 73, 74 |b
+116.	Find the value of (1000)9 / 1024 (A) 10 (B) 100 (C) 1,000 (D) 10,000 |c
+117.	The number divisible by 3 is (A) 1486079821 (B) 2222222222 (C) 1212121221 (D) 3333133331 |c
+118.	The sum of three consecutive numbers is 87. Find the greatest number.  (A) 27 (B) 28 (C) 29 (D) 30 |d
+119.	The least number which when divided by 5, 6, 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder. The number is (A) 1678 (B) 1683 (C) 2523 (D) 3363 |b
+120.	1 / {(5/7) of (63/10)} – (2/9) is (A) 0 (B) 1 (C) 1/2 (D) 2 |a
+x-x-x-x-x-x
+121.	A sum of Rs. 318 is divided among 100 boys and girls. Each boy gets Rs. 3.60, each girl gets Rs. 2.40. The number of girls are  (A) 10 (B) 35 (C) 58 (D) 61 |b
+122.	The sum of two numbers is 24 and their product is 143. Find the sum of the squares of those two numbers. (A) 260 (B) 270 (C) 280 (D) 290 |d
+123.	Find the missing number: 3251 + 587 + 369 – ___ = 3007 (A) 1200 (B) 1250 (C) 1300 (D) 1350 |a
+124.	One-fifth of a number exceeds one-seventh of the same by 10. The number is (A) 125 (B) 135 (C) 155 (D) 175 |d
+125.	The mean and Variance of geometric distribution are (A) p/q and p/q (B) q/p and q/p (C) q/p and q/p2 (D) p/q and p2/q |c
+126.	For Binomial distribution n = 10 and p = 0.6, E(X2) is (A) 10 (B) 28 (C) 36 (D) 38.4 | 	D
+127.	A letter of the English alphabet is chosen at random. The probability that the letter so chosen follows the letter ‘M’ and is a vowel is (A) 1/26 (B) 1/13 (C) 3/26 (D) 2/13 |b
+128.	If T1 is the most efficient estimators with variance V1 and T2 is another estimator with variance V2 then the efficiency of T2 is given by (A) V1 – V2 (B) V2 – V1 (C) V1 / V2 (D) V2 / V1 |c
+129.	A uniformly most powerful test among the class of unbiased test is termed as: (A) Optimum biased test (B) Uniformly most-powerful unbiased test (C) Minimax unbiased test (D) Minimax test |b
+130.	In 256 sets of twelve tosses of a fair coin, in how many cases may one except eight heads and four tails? (A) 20 (B) 22 (C) 27 (D) 31 |d
+x-x-x-x-x-

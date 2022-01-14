@@ -3,7 +3,7 @@ package exam;
 import java.util.UUID;
 
 public class Student {
-    private final String id;
+    private  String id;
     private String name;
     private Subject maths;
     private Subject language;
@@ -12,8 +12,9 @@ public class Student {
     private Integer total_mark;
     private Double percentile;
 
-    public Student() {
-        this.id = UUID.randomUUID().toString();
+
+    public void setId(String id) {
+        this.id = id;
     }
 
     public String getId() {
