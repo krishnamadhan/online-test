@@ -68,7 +68,7 @@ public class Subject {
     public void setNextLevel() {
         switch (current_set) {
             case 1://Set 1-2.....setting level for 2nd set
-                if (setWiseMark.get(current_set - 1).intValue() > 8) {//intValue needed??
+                if (setWiseMark.get(current_set - 1).intValue() >= 8) {//intValue needed??
                     currentLevel = 2;
                     current_set++;
                 } else {
@@ -81,7 +81,7 @@ public class Subject {
                 switch (sets.get(current_set - 1).getLevel()) // if(sets.get(0).getLevel()==1&&)
                 {
                     case 1://case for the level number that he took in the set-2
-                        if (setWiseMark.get(current_set - 1).intValue() > 8) {
+                        if (setWiseMark.get(current_set - 1).intValue() >= 8) {
                             current_set++;
                             currentLevel = 2;
                         } else {
@@ -111,7 +111,7 @@ public class Subject {
             case 3:
                 switch (sets.get(current_set - 1).getLevel()) {
                     case 1:
-                        if (setWiseMark.get(current_set - 1).intValue() > 8) {
+                        if (setWiseMark.get(current_set - 1).intValue() >= 8) {
                             current_set++;
                             currentLevel = 2;
                         } else {

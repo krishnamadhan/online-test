@@ -10,8 +10,15 @@ public class Student {
     private Subject aptitude;
     private Integer rank;
     private Integer total_mark;
+    private Integer total_correct;
     private Double percentile;
 
+    public Integer getTotal_correct() {
+        return total_correct;
+    }
+    public void setTotal_correct(Integer total_correct) {
+        this.total_correct = total_correct;
+    }
 
     public void setId(String id) {
         this.id = id;
