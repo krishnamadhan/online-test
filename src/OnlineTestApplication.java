@@ -16,7 +16,7 @@ public class OnlineTestApplication {
     public static final int setTimer = 0;
     public static final int subjectTimer = 0;
     public static final int studentTimer = 2;
-    public static final int autoFillCorrectAnswer = 8;
+    public static final int autoFillCorrectAnswer = 9;
 
     public static void main(String[] args) throws InterruptedException {
         QuestionPaperRepo questionPaperRepo = new QuestionPaperRepo();
@@ -26,10 +26,10 @@ public class OnlineTestApplication {
         Scanner s = new Scanner(System.in);
         count = s.nextInt();
         List<Student> students = new ArrayList<>();
+        System.out.println("\n**************************************************************************************************************************************************");
         for (int i = 0; i < count; i++) {
             Student std = new Student();
             std.setId("StudentID-"+(i+1));
-            System.out.println("\n");
             System.out.println("Enter the name of Student: ");
             String name;
             Scanner sc = new Scanner(System.in);
@@ -44,10 +44,10 @@ public class OnlineTestApplication {
             students.add(std);
             System.out.println("-------------------------------------------------------------------");
             System.out.println("\t\t\t\t\t\tRESULT:");
-            System.out.println("\nProcessed Scores of Student " + (i + 1) + " Subject-wise :");
-            System.out.println("\t\t\t\tAptitude: " + std.getAptitude().getTotal_score());
-            System.out.println("\t\t\t\tLanguage: " + std.getLanguage().getTotal_score());
-            System.out.println("\t\t\t\tMaths: " + std.getMaths().getTotal_score());
+            System.out.println("\nProcessed Scores of Student " + (i+1) + " Subject-wise :");
+            System.out.println("\t\t\t\t\t\tAptitude: " + std.getAptitude().getTotal_score());
+            System.out.println("\t\t\t\t\t\tLanguage: " + std.getLanguage().getTotal_score());
+            System.out.println("\t\t\t\t\t\tMaths: " + std.getMaths().getTotal_score());
             std.setTotal_mark(std.getAptitude().getTotal_score() + std.getLanguage().getTotal_score() + std.getMaths().getTotal_score());
             //std.setTotal_correct(std.getAptitude().getSetWiseMark() + std.getLanguage().getSetWiseMark() + std.getMaths().getSetWiseMark());
             resetQuestionPaper(questionPaperRepo);
@@ -93,7 +93,7 @@ public class OnlineTestApplication {
                 correct+=students.get(i).getMaths().getSetWiseMark().get(j);
             }
             System.out.println("\n\tMaths Processed Score : "+students.get(i).getMaths().getTotal_score());
-            System.out.println("\nTOTAL NUMBER OF CORRECT RESPONSE: "+correct);
+            System.out.println("\nTOTAL NUMBER OF CORRECT RESPONSES: "+correct);
             System.out.println("TOTAL PROCESSED SCORE: "+students.get(i).getTotal_mark());
         }
 
@@ -164,13 +164,6 @@ public class OnlineTestApplication {
             for (int j = 0; j < total_questions; j++)//loop runs for every question inside a set (set object)....
             {
                 QuestionAndAnswer questionAndAnswer = subjectRepo.getLevels().get(level - 1).getRandomQuestion();
-                //As QuestionAndAnswer has question and answer getter setter we create an object of the class
-                //and assigning the question and the answer by...
-                //subjectRepo object will be of any subject type(has questions and answers level wise)
-                //the object subjectrepo calls the function getLevels() to return the level arraylist of LevelRepo
-                //now the getlevels() function return the (currentlevel -1)th entity in the level array list..
-                //inside the entity we call getRandomQuestion() which returns some random question of the current level.
-
                 System.out.println(questionAndAnswer.getQuestion());
                 String ans;
                 if(correctAnswersLeft>0) {
@@ -180,7 +173,7 @@ public class OnlineTestApplication {
                     ans = getRandomAnswer();
                 }//random answer is generated..
                 System.out.println("Ans: " + ans);
-                Evaluation evaluation = new Evaluation();//creeating evaluation object to setting which question stored , what is the correct answer and what is the response
+                Evaluation evaluation = new Evaluation();//creating evaluation object to setting which question stored , what is the correct answer and what is the response
                 evaluation.setQuestion(questionAndAnswer.getQuestion());
                 evaluation.setAnswer(questionAndAnswer.getAnswer());
                 evaluation.setResponse(ans);
@@ -196,8 +189,11 @@ public class OnlineTestApplication {
             subject.getSetWiseMark().add(set.getCorrect_answers());//adding setwisemark for this particular subject in getSetWiseMark list
             subject.getSets().add(set);
             subject.setNextLevel();//returns the next level...
-            System.out.println("Set Wise Raw Score: " + subject.getSetWiseMark());
-            subject.getSets().forEach(set1 -> System.out.println("Set wise Level : "+set1.getLevel()));
+            System.out.println("\nSet Wise Raw Score: " + subject.getSetWiseMark());
+            for(int k=0;k<subject.getSets().size();k++){
+                System.out.println("Set "+(k+1)+" level: "+subject.getSets().get(k).getLevel());
+            }
+
 
             subject.setTotalScore();
             System.out.println("Set Wise Processed Score: " + subject.getTotal_score());
