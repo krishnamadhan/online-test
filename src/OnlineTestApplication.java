@@ -20,7 +20,7 @@ public class OnlineTestApplication {
 
     public static void main(String[] args) throws InterruptedException {
         QuestionPaperRepo questionPaperRepo = new QuestionPaperRepo();
-        System.out.println("WELCOME TO PROMETRIC BASED EXAM:\n");
+        System.out.println("\n\t\t\t\t\t\t\t\t\t\t\t\tWELCOME TO PROMETRIC BASED EXAM:\n");
         System.out.println("Enter number of students going to take exam: ");
         int count;
         Scanner s = new Scanner(System.in);
@@ -28,7 +28,7 @@ public class OnlineTestApplication {
         List<Student> students = new ArrayList<>();
         for (int i = 0; i < count; i++) {
             Student std = new Student();
-            std.setId("StudentID-"+i);
+            std.setId("StudentID-"+(i+1));
             System.out.println("Enter the name of Student: ");
             String name;
             Scanner sc = new Scanner(System.in);
@@ -38,24 +38,56 @@ public class OnlineTestApplication {
             std.setLanguage(takeTest(questionPaperRepo.getLanguage()));
             std.setMaths(takeTest(questionPaperRepo.getMaths()));
             students.add(std);
-            System.out.println("\n\nProcessed Score of Student " + (i + 1) + " :");
+            System.out.println("-------------------------------------------------------------------");
+            System.out.println("\t\t\t\t\t\tRESULT:");
+            System.out.println("\nProcessed Score of Student " + (i + 1) + " :");
             System.out.println("Aptitude: " + std.getAptitude().getTotal_score());
             System.out.println("Language: " + std.getLanguage().getTotal_score());
             System.out.println("Maths: " + std.getMaths().getTotal_score());
             std.setTotal_mark(std.getAptitude().getTotal_score() + std.getLanguage().getTotal_score() + std.getMaths().getTotal_score());
             resetQuestionPaper(questionPaperRepo);
+            System.out.println("\n=============================================================================================================================================");
+        }
+        System.out.println("\n\n:FINAL COMPILATION OF RESULT:\n\n");
+        finalresult(students);
+        finalranklist(students);
+        for(int i=0;i<students.size();i++) {
+            CreateFile.generateresponse(students.get(i));
+        }
 
+
+    }
+    public static void finalresult(List<Student>students){
+        for( int i=0;i<students.size();i++){
+            System.out.println("\n=========================================================================================\n");
+            System.out.println("Student ID: "+ students.get(i).getId());
+            System.out.println("Student Name: "+ students.get(i).getName());
+            System.out.println("\n-----------------APTITUDE---------------------");
+            for(int j=0;j<students.get(i).getAptitude().getSetWiseMark().size();j++) {
+                System.out.println("SET "+(j+1)+" Mark:"+students.get(i).getAptitude().getSetWiseMark().get(j));
+            }
+            System.out.println("\n--------------------VERBAL----------------------");
+            for(int j=0;j<students.get(i).getLanguage().getSetWiseMark().size();j++) {
+                System.out.println("SET "+(j+1)+" Mark:"+students.get(i).getLanguage().getSetWiseMark().get(j));
+            }
+            System.out.println("\n--------------------MATHS---------------------");
+            for(int j=0;j<students.get(i).getMaths().getSetWiseMark().size();j++) {
+                System.out.println("SET "+(j+1)+" Mark:"+students.get(i).getMaths().getSetWiseMark().get(j));
+            }
 
         }
-        System.out.println("\nRank list: ");
+
+
+
+    }
+    public static void finalranklist(List<Student>students){
         setRank(students);
+        System.out.println("\n:RANK LIST: ");
         for(int i=0;i<students.size();i++)
         {
             System.out.print("Rank "+(i+1)+":"+students.get(i).getName()+"\t");
             System.out.println(" Percentile: "+(Double.valueOf(students.size()-i)/students.size())*100);
         }
-        CreateFile.createRaakesh(students.get(0));
-
 
     }
 
@@ -137,7 +169,7 @@ public class OnlineTestApplication {
             subject.getSets().add(set);
             subject.setNextLevel();//returns the next level...
             System.out.println("Set Wise Raw Score: " + subject.getSetWiseMark());
-            subject.getSets().forEach(set1 -> System.out.println("Set Wise Raw Score: " +set1.getLevel() ));
+            subject.getSets().forEach(set1 -> System.out.println("Set wise Level : "+set1.getLevel()));
 
             subject.setTotalScore();
             System.out.println("Set Wise Processed Score: " + subject.getTotal_score());

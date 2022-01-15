@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class CreateFile {
-  public static void createRaakesh(Student student) {
+  public static void generateresponse(Student student) {
     File myObj = new File("resource/result/",student.getId()+".txt");
     try {
       myObj.createNewFile();
@@ -22,8 +22,8 @@ public class CreateFile {
       stringBuilder.append('\n');
 
 
-      String raakeshVasudha = createRaakeshVasudha(student.getAptitude());
-      stringBuilder.append(raakeshVasudha);
+      String questionanswer = generateQnA(student.getAptitude());
+      stringBuilder.append(questionanswer);
       myWriter.write(stringBuilder.toString());
       myWriter.close();
     } catch (IOException e) {
@@ -31,7 +31,7 @@ public class CreateFile {
       e.printStackTrace();
     }
   }
-  public static String createRaakeshVasudha(Subject  subject) {
+  public static String generateQnA(Subject  subject) {
     StringBuilder stringBuilder = new StringBuilder();
     for(int i =0; i < subject.getSets().size();++i) {
       stringBuilder.append("           Set"+(i+1)+"              ");
